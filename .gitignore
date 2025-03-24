@@ -1,0 +1,4 @@
+pcd/
+plots/
+*.zip
+__pycache__/
